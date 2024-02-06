@@ -1,0 +1,2 @@
+tasklist /s имя компа
+taskkill /s имя компа /PID номер /F
